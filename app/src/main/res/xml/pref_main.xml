@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Account Settings">
+
+        <Preference
+            android:key="@string/key_change_password"
+            android:title="@string/change_password" />
+        <Preference
+            android:key="@string/key_delete_account"
+            android:title="@string/delete_account" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Support">
+        <Preference
+            android:key="@string/key_contact_support"
+            android:title="Contact Us" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="About">
+        <Preference
+            android:key="@string/key_terms_of_service"
+            android:title="Terms of Service" />
+        <Preference
+            android:key="@string/key_privacy_policy"
+            android:title="Privacy Policy" />
+        <Preference
+            android:key="@string/key_version_name"
+            android:title="@string/app_version"
+            android:summary=""/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="App Settings">
+        <Preference
+            android:key="log_out"
+            android:title="Sign Out" />
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

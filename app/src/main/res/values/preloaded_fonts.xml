@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/coiny</item>
+        <item>@font/euphoria_script</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/peralta</item>
+        <item>@font/spinnaker</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_bold</item>
+        <item>@font/ubuntu_medium</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>

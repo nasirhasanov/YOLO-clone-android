@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#434a54</color>
+    <color name="colorAccent">#ff8c46</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#ff8c46</color>
+    <color name="lightBlack">#1D1716</color>
+    <color name="gray">#434A54</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="brown">#7e4523</color>
+    <color name="silver">#f4f5f7</color>
+    <color name="purple">#800080</color>
+    <color name="yellow">#fffc00</color>
+    <color name="blue">#1589FF</color>
+</resources>
