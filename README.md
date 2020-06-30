@@ -1,4 +1,4 @@
-# TBH
+# Snapchat Q&A for android
 
 TBH is an android app for Snapchat Q&A messaging like YOLO.
 
